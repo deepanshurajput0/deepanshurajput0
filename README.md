@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Deepanshu Verma</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-### <div align="center">I'm Deepanshu Verma, full-stack freelance  👨‍💻 working remotely  🚀</div>  
+
 - 🔭 I’m currently working on Next JS & Typescript   
   
 - 🌱 I’m currently learning Solidity & Ether js   
