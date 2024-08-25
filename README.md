@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
 <br/> 
-- 👨‍💻 All of my projects are available at [https://deepanshuverma.netlify.app/](https://deepanshuverma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deepanshuverma.netlify.app/]
 
 Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
