@@ -10,7 +10,6 @@
   
 - ⚡ Fun fact: I use tabs over spaces  
 <br/> 
-**deepanshurajput0/deepanshurajput0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👨‍💻 All of my projects are available at [https://deepanshuverma.netlify.app/](https://deepanshuverma.netlify.app/)
 
 Here are some ideas to get you started:
