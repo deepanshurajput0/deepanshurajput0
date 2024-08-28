@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Next JS & Typescript   
   
-- 🌱 I’m currently learning Solidity & Ether js   
+- 🌱 I’m currently learning Devops Technologies    
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
