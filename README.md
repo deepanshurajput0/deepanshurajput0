@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/deepanshu-verma-91125b273" > 
  <img
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+  src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png"
    height="30px"
   style="filter: invert(32%) sepia(93%) saturate(1350%) hue-rotate(180deg);"
 />
