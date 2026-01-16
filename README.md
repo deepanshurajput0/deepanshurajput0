@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Verma</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-
-- 🔭 I’m currently working on Next JS & Typescript   
-  
-- 🌱 I’m currently learning Devops Technologies    
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 <br/> 
 - 👨‍💻 All of my projects are available at [https://deepanshuverma.netlify.app/]
