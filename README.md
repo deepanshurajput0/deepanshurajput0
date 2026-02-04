@@ -6,6 +6,9 @@
 <br/>
 -  [https://deepanshuverma.netlify.app/]
 
+-  Contact me
+-  deepanshuverma186@gmail.com
+
 <h3 align="left">Links </h3>
 
 <a href="https://x.com/Sanjayk20300693" >
